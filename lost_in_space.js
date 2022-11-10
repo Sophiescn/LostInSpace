@@ -3,7 +3,7 @@
 // création des constantes du jeu
 const ALIEN_BASE_VX = 30;
 const ALIEN_BASE_VY = 15;
-const ALIEN_NUMBER = 100; // ca devient trop difficile si on met plus de méchants 
+const ALIEN_NUMBER = 100;
 const PLAYER_BASE_VX = 50;
 const PLAYER_BASE_VY = 50;
 
